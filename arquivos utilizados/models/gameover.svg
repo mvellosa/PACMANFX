@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="gameover.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.76791526"
+     inkscape:cx="329.46343"
+     inkscape:cy="555.39982"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="285.18772"
+       y="394.57478"
+       width="96.364799"
+       height="52.089081"
+       id="rect11948" />
+    <rect
+       x="98.969253"
+       y="324.25453"
+       width="662.83355"
+       height="432.33937"
+       id="rect6884" />
+    <rect
+       x="98.969254"
+       y="324.25452"
+       width="662.83356"
+       height="432.33936"
+       id="rect6884-2" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g20796">
+      <rect
+         style="fill:#333333;stroke:#000000;stroke-width:3.41788;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.2;stroke-opacity:0;paint-order:markers stroke fill"
+         id="rect868"
+         width="206.8443"
+         height="193.75148"
+         x="1.8371274"
+         y="55.242008" />
+      <g
+         id="g20723"
+         transform="matrix(1.1442118,0,0,1.1316338,1.739699,-22.275863)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1.2133693,0,0,1.2133693,-85.875016,-246.21994)"
+           id="text6882-9"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect6884-2);fill:#ff0000;fill-opacity:1;stroke:none"><tspan
+             x="98.96875"
+             y="361.35582"
+             id="tspan20820"><tspan
+   style="font-family:'Britannic Bold';-inkscape-font-specification:'Britannic Bold, Normal'"
+   id="tspan20818">OVER</tspan> </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(1.2133693,0,0,1.2133693,-90.518467,-301.77515)"
+           id="text6882"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect6884);fill:#ff0000;fill-opacity:1;stroke:none"><tspan
+             x="98.96875"
+             y="361.35582"
+             id="tspan20824"><tspan
+   style="font-family:'Britannic Bold';-inkscape-font-specification:'Britannic Bold, Normal'"
+   id="tspan20822">GAME</tspan> </tspan></text>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text11946"
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect11948)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="50.303944"
+       y="174.68562"
+       id="text18201"><tspan
+         sodipodi:role="line"
+         id="tspan18199"
+         style="stroke-width:0.264583"></tspan></text>
+  </g>
+</svg>

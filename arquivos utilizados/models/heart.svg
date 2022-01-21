@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg13576"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="heart.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview13578"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.76791526"
+     inkscape:cx="113.94486"
+     inkscape:cy="560.60873"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs13573" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect16948"
+       style="fill:#d7061a;fill-opacity:1;stroke:#000000;stroke-width:6;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 51.213604,3.5302719 c -7.106077,0 -14.212235,2.722492 -19.657279,8.1675361 -10.867912,10.867912 -10.888158,28.351973 -0.06449,39.246827 39.31271,39.315471 39.31271,39.315471 39.31271,39.315471 0,0 0,0 39.312715,-39.315471 C 120.94092,40.049778 120.92068,22.56572 110.05276,11.697808 99.184335,0.82943092 81.699255,0.80964192 70.804495,11.634688 65.368005,6.2329759 58.291311,3.5302689 51.213564,3.5302709 Z"
+       sodipodi:nodetypes="csccccccc"
+       inkscape:export-filename="C:\Users\matheus\Desktop\models\heart.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="mix-blend-mode:lighten;fill:#666666;stroke:#000000;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="path1132"
+       ry="12.231438"
+       rx="5.1682138"
+       cy="-2.503638"
+       cx="41.605385"
+       transform="rotate(30.220531)" />
+    <path
+       id="rect16948-0"
+       style="fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:6;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       d="m 53.108595,106.85789 c -7.106077,0 -14.212235,2.72249 -19.657279,8.16754 -10.867912,10.86791 -10.888158,28.35197 -0.06449,39.24683 39.31271,39.31547 39.31271,39.31547 39.31271,39.31547 0,0 0,0 39.312714,-39.31547 10.82366,-10.89486 10.80342,-28.37892 -0.0645,-39.24683 -10.86842,-10.86838 -28.353504,-10.88817 -39.248264,-0.0631 -5.43649,-5.40171 -12.513184,-8.10442 -19.590931,-8.10442 z"
+       sodipodi:nodetypes="csccccccc"
+       inkscape:export-filename="C:\Users\matheus\Desktop\models\emptyheart.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>

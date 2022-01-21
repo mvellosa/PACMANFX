@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="pacdot.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.8101934"
+     inkscape:cx="9.6674756"
+     inkscape:cy="174.8432"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g60638"
+       transform="matrix(1.0000018,0,0,0.99999993,27.503479,27.503476)"
+       inkscape:export-filename="C:\Users\matheus\Desktop\models\pacdot.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#ffae00;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="path2569"
+         sodipodi:type="arc"
+         sodipodi:cx="12.5"
+         sodipodi:cy="12.503998"
+         sodipodi:rx="11.503469"
+         sodipodi:ry="11.507464"
+         sodipodi:start="6.2733067"
+         sodipodi:end="6.2732718"
+         sodipodi:arc-type="slice"
+         d="M 24.002908,12.390322 A 11.503469,11.507464 0 0 1 12.613737,24.0109 11.503469,11.507464 0 0 1 0.99709381,12.617874 11.503469,11.507464 0 0 1 12.386063,0.99709786 11.503469,11.507464 0 0 1 24.002904,12.38992 L 12.5,12.503998 Z" />
+      <path
+         style="fill:#ffd163;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="path2569-2"
+         sodipodi:type="arc"
+         sodipodi:cx="12.5"
+         sodipodi:cy="12.503998"
+         sodipodi:rx="8.9999905"
+         sodipodi:ry="8.9999905"
+         sodipodi:start="6.2733067"
+         sodipodi:end="6.2732718"
+         sodipodi:arc-type="slice"
+         d="M 21.499551,12.415092 A 8.9999905,8.9999905 0 0 1 12.588984,21.503548 8.9999905,8.9999905 0 0 1 3.5004502,12.593061 8.9999905,8.9999905 0 0 1 12.410859,3.5044488 8.9999905,8.9999905 0 0 1 21.499548,12.414778 L 12.5,12.503998 Z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12.9604px;line-height:1.25;font-family:sans-serif;fill:#ffc853;fill-opacity:1;stroke:#ffae00;stroke-width:0.324014;stroke-opacity:1"
+         x="6.7025075"
+         y="17.303991"
+         id="text17858"
+         transform="scale(0.99803805,1.0019658)"><tspan
+           sodipodi:role="line"
+           id="tspan17856"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.9604px;font-family:'Gill Sans Ultra Bold';-inkscape-font-specification:'Gill Sans Ultra Bold, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffc853;fill-opacity:1;stroke:#ffae00;stroke-width:0.324014;stroke-opacity:1"
+           x="6.7025075"
+           y="17.303991">P</tspan></text>
+    </g>
+    <rect
+       style="fill:#ffc853;fill-opacity:0;stroke:#ffae00;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect60855"
+       width="80"
+       height="80"
+       x="8.0561472e-07"
+       y="8.0561472e-07"
+       inkscape:export-filename="C:\Users\matheus\Desktop\models\pacdot.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>
